@@ -1,5 +1,13 @@
+# 01. Arquitectura de Red y Topología
+
+## 🎯 Objetivo de la Sección
+Definir la topología del entorno de pruebas virtualizado, identificando los componentes que participan en la simulación de ataques, la recolección de telemetría y la visualización centralizada de alertas de seguridad mediante la solución XDR.
+
+---
+
+## 🏗️ Topología del Laboratorio
+
 ```mermaid
 graph TD
     Kali[Kali Linux VM - Atacante] -->|Simulacion de ataques| Win[Windows VM - Endpoint]
     Win -->|Logs y Telemetria TLS| Ubuntu[Ubuntu Server - XDR Manager]
-Figura 1: Topología de red del laboratorio. El agente XDR instalado en la máquina Windows monitorea y envía los registros de eventos mediante una conexión cifrada TLS hacia el servidor XDR en la máquina Ubuntu. La máquina Kali Linux actúa como el agente hostil externo encargado de realizar las simulaciones de ataque para activar las alertas de seguridad.
