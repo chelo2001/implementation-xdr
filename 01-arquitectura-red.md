@@ -21,4 +21,6 @@ graph TD
 ## 🌐 Configuración de red
 La figura 2 ilustra las direcciones IP asignadas a cada máquina. en este caso se utilizó una conexión de red de tipo puente.
 
-![Diagrama de red del laboratorio XDR](diagrama-red.svg)
+<p align="center">
+  <img src="diagrama-red.svg" alt="Diagrama de red del laboratorio XDR" width="400">
+</p>
