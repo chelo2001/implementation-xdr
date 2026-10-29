@@ -23,6 +23,6 @@ La figura 2 ilustra las direcciones IP asignadas a cada máquina. en este caso s
 
 ```mermaid
 graph TD
-    Kali[Kali Linux VM <br/> 192.168.100.115] -->|Simulacion de ataques| Win[Windows VM <br/> 192.168.100.147]
-    Win -->|Logs y Telemetria TLS| Ubuntu[Ubuntu Server <br/> 192.168.100.146]
+    Kali["🏴‍☠️ Kali Linux (Atacante) <br/> <code>192.168.100.115</code>"] -->|Simulación de ataques| Win["💻 Windows Endpoint <br/> <code>192.168.100.147</code>"]
+    Win -->|Logs y Telemetría TLS| Ubuntu["🐧 Ubuntu Server (XDR Manager) <br/> <code>192.168.100.146</code>"]
 ```
