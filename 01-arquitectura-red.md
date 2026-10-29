@@ -21,8 +21,8 @@ graph TD
 ## 🌐 Configuración de red
 La figura 2 ilustra las direcciones IP asignadas a cada máquina. en este caso se utilizó una conexión de red de tipo puente.
 
-```mermaid
 graph TD
     Kali["🏴‍☠️ Kali Linux (Atacante) <br/> <code>192.168.100.115</code>"] -->|Simulación de ataques| Win["💻 Windows Endpoint <br/> <code>192.168.100.147</code>"]
     Win -->|Logs y Telemetría TLS| Ubuntu["🐧 Ubuntu Server (XDR Manager) <br/> <code>192.168.100.146</code>"]
 ```
+![Diagrama de red del laboratorio XDR](diagrama-red.svg)
