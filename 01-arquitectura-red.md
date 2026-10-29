@@ -24,3 +24,7 @@ La figura 2 ilustra las direcciones IP asignadas a cada máquina. en este caso s
 <p align="center">
   <img src="diagrama-red.svg" alt="Diagrama de red del laboratorio XDR" width="400">
 </p>
+
+<p align="center">
+  <em>Figura 2: Topología de red modo puente utilizada para la conexión de cada máquina.</em>
+</p>
