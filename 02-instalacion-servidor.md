@@ -2,10 +2,17 @@
 ## Objetivo de la sección
 Presentar los pasos a realizar para la instalación del XDR Wazuh.
 
+---
+## Requisitos del sistema
 
+Para la instalación del servidor Wazuh se utilizó una máquina virtual con las siguientes características:
 
-
-
+| Componente | Especificación |
+|---|---|
+| Sistema operativo | Ubuntu Server 22.04 LTS |
+| Memoria RAM | 4 GB |
+| Núcleos de CPU | 2 |
+| Red | Modo puente (IP 192.168.100.146) |
 
 
 Para la instalación de la herramienta xdr wazuh, primero se debe descargar e importar la clave GPG del repositorio oficial de wazuh que verifica la autenticidad, integridad del software y permite la confianza entre el sistema operativo y el repositorio externo de wazuh. 
