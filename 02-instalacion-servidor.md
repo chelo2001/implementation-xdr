@@ -1,4 +1,6 @@
 # 01. Instalación de herramienta XDR Wazuh
+## Objetivo de la sección
+
 
 
 
