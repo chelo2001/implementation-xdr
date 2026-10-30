@@ -3,7 +3,7 @@
 Presentar los pasos a realizar para la instalación del XDR Wazuh.
 
 ---
-## Requisitos del sistema
+## 💻 Requisitos del sistema
 
 Para la instalación del servidor Wazuh se utilizó una máquina virtual con las siguientes características:
 
