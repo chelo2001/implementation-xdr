@@ -7,3 +7,4 @@ Luego se puede descargar e instalar de manera automatizada la solución xdr wazu
 curl -sO https://packages.wazuh.com/4.12/wazuh-install.sh && sudo bash ./wazuh-install.sh -a -i
 ```
 Después de completarse la instalación, se proporcionarán las credenciales para ingresar al dashboard.
+![Credenciales de acceso al dashboard de Wazuh](credenciales-tapadas.png)
