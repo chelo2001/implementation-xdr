@@ -1,4 +1,4 @@
-# 01. Instalación de herramienta XDR Wazuh
+# 02. Instalación de herramienta XDR Wazuh
 ## Objetivo de la sección
 Presentar los pasos a realizar para la instalación del XDR Wazuh.
 
