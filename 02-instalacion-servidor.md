@@ -14,6 +14,8 @@ Para la instalación del servidor Wazuh se utilizó una máquina virtual con las
 | Núcleos de CPU | 2 |
 | Red | Modo puente (IP 192.168.100.146) |
 
+---
+## Pasos para instalación
 
 Para la instalación de la herramienta xdr wazuh, primero se debe descargar e importar la clave GPG del repositorio oficial de wazuh que verifica la autenticidad, integridad del software y permite la confianza entre el sistema operativo y el repositorio externo de wazuh. 
 ```bash
