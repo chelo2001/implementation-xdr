@@ -23,3 +23,10 @@ Para la obtención de la clave de autenticación, se debe añadir un nuevo agent
 ```bash
 sudo /var/ossec/bin/manage_agents
 ```
+Posterior a eso aparecerán las opciones que se muestran en la figura 2.
+<p align="center">
+  <img src="manage-agents.png" alt="Menú de manage_agents del servidor Wazuh" width="500">
+</p>
+<p align="center">
+  <em>Figura 2: Menú de opciones de manage_agents en el servidor Wazuh.</em>
+</p>
