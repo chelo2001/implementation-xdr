@@ -11,5 +11,8 @@ Para la instalación del agente, se debe ingresar al siguiente link para descarg
 </p>
 Luego de la instalación, aparecerá una ventana de configuración como la que se muestra en la figura 1, en donde se debe ingresar la ip de la máquina que ejecuta el XDR Wazuh y una clave de autenticación.
 <p align="center">
+  <img src="agente-wazuh-config.png" alt="Configuración del agente Wazuh en Windows" width="400">
+</p>
+<p align="center">
   <em>Figura 1: Configuración del agente Wazuh en el endpoint Windows.</em>
 </p>
