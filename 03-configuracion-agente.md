@@ -40,3 +40,5 @@ Se debe escoger la opción A para añadir un nuevo agente. Después de eso se so
 <p align="center">
   <em>Figura 3: Reinicio del agente Wazuh desde el menú Manage para aplicar la configuración.</em>
 </p>
+> [!WARNING]
+> La versión del agente Wazuh debe ser **igual o inferior** a la del servidor. Si el agente es más nuevo que el manager, no se conectará y no aparecerá en el dashboard.
