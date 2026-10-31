@@ -30,4 +30,12 @@ Posterior a eso aparecerán las opciones que se muestran en la figura 2.
 <p align="center">
   <em>Figura 2: Menú de opciones de manage_agents en el servidor Wazuh.</em>
 </p>
-Se debe escoger la opción A para añadir un nuevo agente. Después de eso se solicitará el nombre para designar el agente y la dirección ip (dirección ip de la máquina windows en este caso). Luego de eso se debe solicitar una cleve para dicho agente, la cual se puede obtener con la opción E. Una vez seleccionada la opción, se debe ingresar el ID asignado al agente (este se asigna una vez finalizamos con la opción A) y se mostrará la clave de autenticación asignada.
+Se debe escoger la opción A para añadir un nuevo agente. Después de eso se solicitará el nombre para designar el agente y la dirección ip (dirección ip de la máquina windows en este caso). Luego de eso se debe solicitar una cleve para dicho agente, la cual se puede obtener con la opción E. Una vez seleccionada la opción, se debe ingresar el ID asignado al agente (este se asigna una vez finalizamos con la opción A) y se mostrará la clave de autenticación asignada. Una vez ingresada la clave en la máquina que ejecuta el agente (máquina windows), se debe guardar y reiniciar el agente como se muestra en la figura 3.
+
+<p align="center">
+  <img src="agente-wazuh-restart.png" alt="Reinicio del agente Wazuh desde el menú Manage" width="400">
+</p>
+
+<p align="center">
+  <em>Figura 3: Reinicio del agente Wazuh desde el menú Manage para aplicar la configuración.</em>
+</p>
