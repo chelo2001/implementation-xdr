@@ -41,6 +41,13 @@ Se debe escoger la opción A para añadir un nuevo agente. Después de eso se so
   <em>Figura 3: Reinicio del agente Wazuh desde el menú Manage para aplicar la configuración.</em>
 </p>
 Una vez hecho todo, se podrá visualizar el agente en el dashboard de wazuh.
+<p align="center">
+  <img src="dashboard-agente-activo.png" alt="Agente Windows activo en el dashboard de Wazuh" width="700">
+</p>
+
+<p align="center">
+  <em>Figura 4: Agente Windows conectado y en estado activo en el dashboard de Wazuh.</em>
+</p>
 
 
 > [!WARNING]
