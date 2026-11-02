@@ -12,3 +12,4 @@ Para hacer que el agente pueda leer los logs del firewall de windows se debe edi
   <log_format>syslog</log_format>
 </localfile>
 ```
+Para ello se puede abrir el bloc de notas con privilegios de administrador y luego seleccionar el archivo de configuración.
